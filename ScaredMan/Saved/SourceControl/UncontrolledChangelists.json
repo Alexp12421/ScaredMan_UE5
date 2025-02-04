@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/LR/B1W10UVLCVCK8HV47QFUD5.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/II/7105683B0XJW0PEREKPVF0.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/CR_Mannequin_Body_Take1.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/Characters/Mannequins/Animations/ScaredMan/ScaredMan_Idle.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/Characters/Mannequins/Animations/ScaredMan/ScaredMan_Walk.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/Characters/Mannequins/Animations/ScaredMan/BS_ScaredMan_Walk.uasset",
+				"D:/Games/U5-Games/ScaredMan_UE5/ScaredMan/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset"
 			]
 		}
 	]
